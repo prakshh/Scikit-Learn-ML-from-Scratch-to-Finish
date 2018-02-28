@@ -1,9 +1,9 @@
-# Machine Learning from Start to Finish with Scikit-Learn
+## Machine Learning from Scratch to Finish with Scikit-Learn
 
 This notebook covers the basic Machine Learning process in Python step-by-step. 
 Go from raw data to at least 78% accuracy on the Titanic Survivors dataset.
 
-## Steps Covered
+### Steps Covered
 
     1. Importing a DataFrame
     2. Visualize the Data
